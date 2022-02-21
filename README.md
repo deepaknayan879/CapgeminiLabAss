@@ -1,2 +1,0 @@
-# CapgeminiLabAss
-lab assiggnment
